@@ -47,12 +47,5 @@ The `Download CV` button points to `public/isaac-attard-cv.txt` as a placeholder
 
 ## Deployment to Vercel
 
-1. Push the project to GitHub.
-2. In Vercel, import the repository.
-3. Use the default Next.js build settings.
-4. Set the production domain in `app/layout.tsx`, `app/sitemap.ts`, and `app/robots.ts` before publishing.
+https://portfolio-isaac-attard.vercel.app/
 
-## Notes
-
-- Social and project URLs are intentionally left as placeholders and should be replaced with real links before production release.
-- The contact form validates client-side input and is ready to be connected to a service such as Formspree, Resend, or a custom API route.
