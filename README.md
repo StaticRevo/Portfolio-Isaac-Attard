@@ -27,20 +27,6 @@ A premium portfolio website for Isaac Attard, built with Next.js, TypeScript, an
 
 3. Open <http://localhost:3000>
 
-## Customising content
-
-Update the structured data in `data/portfolio.ts` to revise:
-
-- personal details
-- work history
-- education
-- skills
-- projects
-- certifications
-- social links
-
-Replace the placeholder profile image in `public/profile-placeholder.svg` and the placeholder project assets in `public/`.
-
 ## Downloadable CV
 
 The `Download CV` button points to `public/isaac-attard-cv.txt` as a placeholder. Replace it with your final PDF or HTML document before launch.
