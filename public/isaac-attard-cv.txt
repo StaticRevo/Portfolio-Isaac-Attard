@@ -1,0 +1,9 @@
+Isaac Attard
+Software Developer | Junior Technical Consultant
+
+This is a placeholder CV document. Replace it with the final PDF or HTML CV before deployment.
+
+- Software Development graduate from the University of Malta
+- First Class Honours
+- Experience in Power Platform, CRM, web apps, and business technology projects
+- Skills in Python, C#, Java, JavaScript, SQL, PHP, ASP.NET Core, Flask, and machine learning

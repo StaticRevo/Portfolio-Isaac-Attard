@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 960">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071b2d"/>
+      <stop offset="50%" stop-color="#0d243c"/>
+      <stop offset="100%" stop-color="#1a1234"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#67e8f9"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="960" fill="url(#bg)"/>
+  <circle cx="600" cy="180" r="160" fill="url(#accent)" opacity="0.18"/>
+  <circle cx="200" cy="760" r="220" fill="#22d3ee" opacity="0.10"/>
+  <rect x="200" y="80" width="400" height="760" rx="32" fill="rgba(12,20,33,0.72)" stroke="rgba(255,255,255,0.12)"/>
+  <circle cx="400" cy="340" r="120" fill="#d7e7ff" opacity="0.9"/>
+  <path d="M300 640c18-90 72-140 160-140s142 50 160 140" fill="#d7e7ff" opacity="0.95"/>
+  <path d="M330 350c0-64 32-112 122-112s122 48 122 112v10H330v-10Z" fill="#1e293b"/>
+  <path d="M426 418h-44c-57 0-105 46-105 103v26h254v-26c0-57-48-103-105-103Z" fill="#0f172a"/>
+  <text x="400" y="820" text-anchor="middle" font-size="36" fill="#e2f2ff" font-family="Arial, sans-serif" font-weight="700">Isaac Attard</text>
+</svg>

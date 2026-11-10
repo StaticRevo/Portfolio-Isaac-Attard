@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#1f2937"/>
+  <rect x="120" y="90" width="960" height="540" rx="30" fill="#0f172a"/>
+  <circle cx="360" cy="330" r="180" fill="#f59e0b" opacity="0.1"/>
+  <rect x="220" y="210" width="220" height="230" rx="24" fill="#f59e0b" opacity="0.16"/>
+  <rect x="500" y="210" width="180" height="230" rx="24" fill="#0ea5e9" opacity="0.18"/>
+  <rect x="720" y="210" width="220" height="230" rx="24" fill="#a78bfa" opacity="0.16"/>
+  <path d="M260 240h140M260 290h88M260 340h114M260 390h146" stroke="#fbbf24" stroke-width="12" stroke-linecap="round"/>
+  <path d="M540 240h100M540 290h70M540 340h110M540 390h90" stroke="#67e8f9" stroke-width="12" stroke-linecap="round"/>
+  <path d="M760 240h140M760 290h90M760 340h120M760 390h130" stroke="#c4b5fd" stroke-width="12" stroke-linecap="round"/>
+  <text x="600" y="640" text-anchor="middle" font-size="42" fill="#f8fafc" font-family="Arial, sans-serif" font-weight="700">Restaurant App</text>
+</svg>

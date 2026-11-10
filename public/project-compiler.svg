@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#0f172a"/>
+  <rect x="140" y="100" width="920" height="520" rx="26" fill="#111827" stroke="rgba(255,255,255,0.08)"/>
+  <path d="M230 210h130v94H230zM380 210h490v94H380zM230 350h260v96H230zm320 0h280v96H550zm0 140h440v96H550zm-320 0h220v96H230z" fill="rgba(163,230,53,0.12)"/>
+  <path d="M260 235h74v40h-74zm68 0h126m-126 36h74m112 0h256m-332 0h20m-160 108h190m40 0h160m-310 0h80m-110 140h170m40 0h180m-160 140h320M230 520h160m60 0h200" stroke="#a3e635" stroke-linecap="round" stroke-width="7" opacity="0.85"/>
+  <text x="600" y="650" text-anchor="middle" font-size="42" fill="#f8fafc" font-family="Arial, sans-serif" font-weight="700">Custom Compiler</text>
+</svg>
